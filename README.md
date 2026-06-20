@@ -4,10 +4,9 @@ Description of your project, and purpose.
 ## Usage
 How to use your project
 
-## To run this project:
-1. Clone this repository `git clone https://github.com/khianvictorycalderon/<your-repo-name>.git`
-2. Run `npm install`
-3. Run `npm run dev`
+## Setup Installation:
+1. Run `npm install`
+2. Run `npm run dev`
 
 ---
 
